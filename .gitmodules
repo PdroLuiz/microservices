@@ -1,3 +1,6 @@
 [submodule "auth"]
 	path = auth
 	url = https://github.com/PdroLuiz/microservices-auth
+[submodule "email"]
+	path = email
+	url = https://github.com/PdroLuiz/microservices-email
