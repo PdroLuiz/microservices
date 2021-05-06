@@ -4,3 +4,6 @@
 [submodule "email"]
 	path = email
 	url = https://github.com/PdroLuiz/microservices-email
+[submodule "payment"]
+	path = payment
+	url = https://github.com/PdroLuiz/microservices-payment
